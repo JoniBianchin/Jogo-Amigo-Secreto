@@ -17,5 +17,5 @@ Joni Bianchin - aluno do curso
 Front-end: HTML, CSS, JavaScript, Deepseek
 
 Considerações finais:
-Nesse desafio foi realizados com a ajuda das aulas do curso e com a ajuda da I.A Deepseek, que por sinal me ajudou muito com a finalização do trabalho
+Nesse desafio foi realizados com a ajuda das aulas do curso e com a ajuda da I.A Deepseek, que por sinal me ajudou muito com a finalização do trabalho,
 Espero que tenham gostado do resultado e bom jogo a todos.

@@ -16,6 +16,6 @@ Joni Bianchin - aluno do curso
 💻 Tecnologias Utilizadas
 Front-end: HTML, CSS, JavaScript, Deepseek
 
-Considerações finais
+Considerações finais:
 Nesse desafio foi realizados com a ajuda das aulas do curso e com a ajuda da I.A Deepseek, que por sinal me ajudou muito com a finalização do trabalho
 Espero que tenham gostado do resultado e bom jogo a todos.
